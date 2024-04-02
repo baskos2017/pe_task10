@@ -1,0 +1,9 @@
+imya:  name1    birthday:  01.12.2000    email:  qwerty1@gmail.com    tel:  +380500000001
+imya:  name2    birthday:  02.12.2000    email:  qwerty2@gmail.com    tel:  +380500000002
+imya:  name3    birthday:  03.12.2000    email:  qwerty3@gmail.com    tel:  +380500000003
+imya:  name4    birthday:  04.12.2000    email:  qwerty4@gmail.com    tel:  +380500000004
+imya:  name5    birthday:  05.12.2000    email:  qwerty5@gmail.com    tel:  +380500000004
+imya:  name6    birthday:  06.12.2000    email:  qwerty6@gmail.com    tel:  +380500000006
+imya:  name7    birthday:  07.12.2000    email:  qwerty7@gmail.com    tel:  +380500000007
+imya:  name8    birthday:  08.12.2000    email:  qwerty8@gmail.com    tel:  +380500000008
+imya:  name10    birthday:  10.12.2000    email:  qwerty10@gmail.com    tel:  +380500000010
